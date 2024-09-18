@@ -17,7 +17,7 @@ Database Normalization: Applied principles of normalization to optimize data str
 
 SQL Queries: Wrote efficient SQL queries for data retrieval, insertion, and updating across multiple tables.
 
-Database Design: Expertise in creating ER diagrams, relationships (one-to-many, many-to-many), and foreign key constraints.
+Database Design: Expertise in creating ER, relationships (one-to-many, many-to-many), and foreign key constraints.
 
 Relational Database Management: Managed and maintained MySQL databases for testing and development.
 
